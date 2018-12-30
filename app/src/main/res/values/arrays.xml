@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="list">
+    <item>ACADEMIC FACULTIES</item>
+    <item>SUPPORT FACILITIES</item>
+</string-array>
+    <string-array name="academic">
+        <item>Centre for Foundation Studies</item>
+        <item>Faculty of Computing Sciences</item>
+        <item>Faculty of Business and Management Studies</item>
+        <item>Centre for Postgraduate Studies</item>
+    </string-array>
+    <string-array name="support">
+        <item>CURRENT STUDENTS</item>
+        <item>PROSPECTIVE STUDENTS</item>
+        <item>EMPLOYEES</item>
+        <item>ALUMNI</item>
+    </string-array>
+    <string-array name="home_items">
+        <item>VLG (Moodle)</item>
+        <item>Email</item>
+        <item>Online Help Desk</item>
+        <item>Exam Timetable</item>
+        <item>Contact us</item>
+        <item>Academic Calendar</item>
+        <item>FAQs</item>
+        <item>Achievements and Recognitions</item>
+        <item>News Gazette</item>
+        <item>Job Vacancies</item>
+    </string-array>
+</resources>

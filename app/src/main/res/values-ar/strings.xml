@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المشروع الثاني</string>
+    <string name="locate_us">حدد لنا</string>
+    <string name="copyright_2018_gulf_college_all_rights_reserved">حقوق النشر © 2018 كلية الخليج. كل الحقوق محفوظة.</string>
+    <string name="locate_us_menu">حدد لنا</string>
+    <string name="contact">اتصل</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="moodle">موودل</string>
+    <string name="mail_id"><![CDATA[<u> gcollege@omantel.net.om</u>]]></string>
+    <string name="change_language">غير اللغة</string>
+    <string name="academic_faculties">لهيئات الأكاديمية</string>
+    <string name="support">وسائل الدعم</string>
+    <string name="title_activity_navigation_main">NavigationMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_registered_login_me">Already Registered!!Login me</string>
+    <string name="notification">Notification from cloud</string>
+</resources>

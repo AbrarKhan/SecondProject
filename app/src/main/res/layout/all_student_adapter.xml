@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+    <TableRow>
+        <TextView
+            android:text="Name"
+            android:gravity="center"
+            android:id="@+id/name"
+            android:layout_weight="1"/>
+        <TextView
+            android:text="User Id"
+            android:gravity="center"
+
+            android:id="@+id/for_id"
+            android:layout_weight="1"/>
+        <TextView
+            android:text="Password"
+            android:id="@+id/for_pass"
+            android:layout_weight="1"
+            android:gravity="center"/>
+    </TableRow>
+<View android:layout_height="1dp"
+    android:layout_width="match_parent"
+    android:background="#f40606"></View>
+</TableLayout>
+
+
+
+
+
+
+
+

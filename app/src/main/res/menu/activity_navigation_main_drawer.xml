@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_academic"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/academic_faculties" />
+        <item
+            android:id="@+id/nav_support"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/support" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    <item android:title="Registration">
+        <menu>
+            <item
+                android:id="@+id/nav_register"
+                android:icon="@drawable/regsitration"
+                android:title="New Registration" />
+            <item
+                android:id="@+id/nav_registered"
+                android:icon="@drawable/aluminiicon"
+                android:title="All Students" />
+
+        </menu>
+    </item>
+    <item android:title="From JSON">
+        <menu>
+            <item
+                android:id="@+id/nav_json"
+                android:icon="@drawable/regsitration"
+                android:title="JSON DATA" />
+            <item
+                android:id="@+id/nav_json_test"
+                android:icon="@drawable/regsitration"
+                android:title="JSON DATA TEST" />
+        </menu>
+    </item>
+    <item android:title="From Firebase">
+        <menu>
+            <item
+                android:id="@+id/nav_firebase"
+                android:icon="@drawable/regsitration"
+                android:title="Firebase New Book" />
+
+        </menu>
+    </item>
+</menu>
